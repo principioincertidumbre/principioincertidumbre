@@ -1,5 +1,5 @@
 I'm a chemist specialized in computational chemistry. I'm currently studying a MSc in Data Science. 
-I'm interested in Machine Learning applied to natural sciences.
+I'm interested in Machine Learning applied to natural sciences, social science and economics.
 
 
 <!---
