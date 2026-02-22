@@ -1,4 +1,4 @@
-I'm a chemist specialized in computational chemistry. I'm currently studying a MSc in Data Science. 
+I'm a chemist and MSc in Data Science. My capstone project combined multiclass classification with conformal prediction and SHAP analysis.
 I'm interested in Machine Learning applied to natural sciences, social sciences and economics.
 
 
